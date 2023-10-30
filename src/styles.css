@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+ul {
+  font-family: sans-serif;
+  line-height: 1.5;
+  list-style: none;
+  text-align: left;
+  margin: 15px 20px;
+  padding: 10px;
+  background-color: rgb(240, 240, 240);
+  border-radius: 10px;
+  width: 35%;
+}
+input {
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: 1px solid #9aa0a5;
+  margin-left: 20px;
+}
+button {
+  padding: 9px 12px;
+  color: white;
+  background-color: #4385f3;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+}
