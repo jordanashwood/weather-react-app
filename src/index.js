@@ -10,6 +10,17 @@ root.render(
   <React.StrictMode>
     <App />
     <Weather />
+    <p>
+      This project was coded by Jordan Ashwood and is{" "}
+      <a
+        href="https://github.com/jordanashwood/weather-react-app"
+        target="_blank"
+        rel="noreferrer"
+      >
+        open-sourced on Github
+      </a>
+      .
+    </p>
   </React.StrictMode>
 );
 
